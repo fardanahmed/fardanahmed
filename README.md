@@ -1,3 +1,5 @@
+---
+
 ## Fardan Ahmed
 
 **Full-Stack & AI Engineer** building secure, scalable production systems in healthcare and cloud infrastructure.
@@ -23,26 +25,35 @@
 
 ---
 
-### Featured Work
+### GitHub Stats
 
-**Averywell** — HIPAA-Compliant Clinical Lab Portal *(Private Repo)*
-> OCR-powered form extraction via Azure Document Intelligence, 3-tier RBAC with route-level access control, real-time analytics dashboard, and zero-downtime CI/CD across Vercel + Railway + Neon PostgreSQL.
-
-**[Inventory Management API](https://github.com/fardanahmed/inventory-management-api)** — Enterprise Inventory System
-> Full-stack REST API with TypeScript, Express, and Prisma ORM. Features 11 data models, purchase/sales order workflows, stock movement tracking, audit logging, RBAC, and OpenAPI documentation.
-
-**[CARER Platform](https://github.com/fardanahmed/carer-platform)** — Academic Consultancy Website
-> Next.js 16 + React 19 + TypeScript platform with Neon Postgres, ISR, dark/light theming, and glassmorphism design. Built for a research institute bridging academia and industry.
-
-**[Recite Right](https://github.com/fardanahmed/recite-right)** — Quran Recitation Backend API
-> Production-ready Node.js/Express backend with JWT authentication, compound database indexing, modular route architecture, 90%+ test coverage, and Docker support.
-
-**[PBAC](https://github.com/fardanahmed/pbac)** — Policy-Based Access Control Engine
-> Django REST API implementing attribute-based policy evaluation for fine-grained authorization decisions with dynamic permission rules.
-
-**[LeetCode Solutions](https://github.com/fardanahmed/leetcode-solutions)** — Algorithm Practice
-> Curated Python solutions to medium and hard LeetCode problems. Covers dynamic programming, sliding window, binary search, and linked list patterns.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=CCD6F6&bg_color=0D1117" alt="Fardan's GitHub Stat
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=CCD6F6&bg_color=0D1117" alt="Fardan's Top Languages" />
+</div>div>
 
 ---
 
-📬 **fardanijaz@gmail.com** · [LinkedIn](https://linkedin.com/in/fardan-ahmed)
+### Featured Work
+
+**Averywell** -- HIPAA-Compliant Clinical Lab Portal (Private Repo)
+OCR-powered form extraction via Azure Document Intelligence, 3-tier RBAC with route-level access control, real-time analytics dashboard, and zero-downtime CI/CD across Vercel + Railway + Neon PostgreSQL.
+
+**[Inventory Management API](https://github.com/fardanahmed/inventory-management-api)** -- Enterprise Inventory System
+Full-stack REST API with TypeScript, Express, and Prisma ORM. Features 11 data models, purchase/sales order workflows, stock movement tracking, audit logging, RBAC, and OpenAPI documentation.
+
+**[CARER Platform](https://github.com/fardanahmed/carer-platform)** -- Academic Consultancy Website
+Next.js 16 + React 19 + TypeScript platform with Neon Postgres, ISR, dark/light theming, and glassmorphism design. Built for a research institute bridging academia and industry.
+
+**[Recite Right](https://github.com/fardanahmed/recite-right)** -- Quran Recitation Backend API
+Production-ready Node.js/Express backend with JWT authentication, compound database indexing, modular route architecture, 90%+ test coverage, and Docker support.
+
+**[PBAC](https://github.com/fardanahmed/pbac)** -- Policy-Based Access Control Engine
+Django REST API implementing attribute-based policy evaluation for fine-grained authorization decisions with dynamic permission rules.
+
+**[LeetCode Solutions](https://github.com/fardanahmed/leetcode-solutions)** -- Algorithm Practice
+Curated Python solutions to medium and hard LeetCode problems. Covers dynamic programming, sliding window, binary search, and linked list patterns.
+
+---
+
+Contact: fardanijaz@gmail.com - [LinkedIn](https://linkedin.com/in/fardan-ahmed)
