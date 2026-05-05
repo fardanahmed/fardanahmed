@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=radical&hide_border=true&title_color=007ACC" alt="Fardan's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=radical&hide_border=true&title_color=007ACC" alt="Fardan's Top Languages" />
-</p>p>
+</p>
 
 ---
 
