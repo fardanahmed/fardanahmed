@@ -1,5 +1,3 @@
----
-
 ## Fardan Ahmed
 
 **Full-Stack & AI Engineer** building secure, scalable production systems in healthcare and cloud infrastructure.
