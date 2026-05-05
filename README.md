@@ -1,3 +1,5 @@
+---
+
 ## Fardan Ahmed
 
 **Full-Stack & AI Engineer** building secure, scalable production systems in healthcare and cloud infrastructure.
@@ -25,8 +27,10 @@
 
 ### GitHub Stats
 
-![Fardan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=radical&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=CCD6F6)
-![Fardan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=radical&hide_border=true&title_color=007ACC&text_color=CCD6F6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=radical&hide_border=true&title_color=007ACC" alt="Fardan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=radical&hide_border=true&title_color=007ACC" alt="Fardan's Top Languages" />
+</p>p>
 
 ---
 
@@ -38,7 +42,7 @@ OCR-powered form extraction via Azure Document Intelligence, 3-tier RBAC with ro
 **[Inventory Management API](https://github.com/fardanahmed/inventory-management-api)** -- Enterprise Inventory System
 Full-stack REST API with TypeScript, Express, and Prisma ORM. Features 11 data models, purchase/sales order workflows, stock movement tracking, audit logging, RBAC, and OpenAPI documentation.
 
-**[CARER Platform](https://carer-platform.vercel.app)** -- Academic Consultancy Website
+**[CARER Platform](https://github.com/fardanahmed/carer-platform)** -- Academic Consultancy Website
 Next.js 16 + React 19 + TypeScript platform with Neon Postgres, ISR, dark/light theming, and glassmorphism design. Built for a research institute bridging academia and industry.
 
 **[Recite Right](https://github.com/fardanahmed/recite-right)** -- Quran Recitation Backend API
@@ -46,3 +50,10 @@ Production-ready Node.js/Express backend with JWT authentication, compound datab
 
 **[PBAC](https://github.com/fardanahmed/pbac)** -- Policy-Based Access Control Engine
 Django REST API implementing attribute-based policy evaluation for fine-grained authorization decisions with dynamic permission rules.
+
+**[LeetCode Solutions](https://github.com/fardanahmed/leetcode-solutions)** -- Algorithm Practice
+Curated Python solutions to medium and hard LeetCode problems. Covers dynamic programming, sliding window, binary search, and linked list patterns.
+
+---
+
+Contact: fardanijaz@gmail.com - [LinkedIn](https://linkedin.com/in/fardan-ahmed)
