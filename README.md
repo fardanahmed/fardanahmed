@@ -1,5 +1,3 @@
----
-
 ## Fardan Ahmed
 
 **Full-Stack & AI Engineer** building secure, scalable production systems in healthcare and cloud infrastructure.
@@ -28,7 +26,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=CCD6F6&bg_color=0D1117" alt="Fardan's GitHub Stat
+  <img src="https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=CCD6F6&bg_color=0D1117" alt="Fardan's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=CCD6F6&bg_color=0D1117" alt="Fardan's Top Languages" />
 </div>div>
 
