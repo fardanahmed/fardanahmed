@@ -26,9 +26,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=radical&hide_border=true&title_color=007ACC" alt="Fardan's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=radical&hide_border=true&title_color=007ACC" alt="Fardan's Top Languages" />
-</p>
+  <img src="https://github-stats-alpha.vercel.app/api?username=fardanahmed&theme=radical" alt="Fardan's GitHub Stats" />
+    <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=fardanahmed&theme=radical" alt="Fardan's Top Languages" />
+</p>p>
 
 ---
 
@@ -55,3 +55,4 @@ Curated Python solutions to medium and hard LeetCode problems. Covers dynamic pr
 ---
 
 Contact: fardanijaz@gmail.com - [LinkedIn](https://linkedin.com/in/fardan-ahmed)
+
