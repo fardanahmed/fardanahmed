@@ -1,55 +1,24 @@
-## Fardan Ahmed
+## Fardan Ahmed Khan
 
-**Full-Stack & AI Engineer** building secure, scalable production systems in healthcare and cloud infrastructure.
+Full-stack developer (TypeScript, Node.js, React/Next.js, Python). BSc Computer Science, University of the People, 2026.
+I build web platforms and backends for small teams: a Webflow migration practice and a client-reporting engine for a US hospitality marketing agency, a clinical-lab OCR portal, and my own SaaS site and API. I run my work with AI agent tooling (Claude Code, MCP servers) and write the runbooks that make it repeatable.
 
-### Tech Stack
+### Current work
+**Contract web developer, a hospitality marketing agency (USA), since Sep 2026.** WordPress-to-Webflow migrations to a written standard (two hotel sites live in October 2026), GTM/GA4 tracking cut-overs that keep analytics history intact, and a monthly client-reporting engine (TypeScript CLI + Next.js 16 dashboard, 41 automated tests). Client repos are private.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+### Projects
+**NexusHQ** (public: `nexushq`, `nexushq-backend`) - SaaS marketing site and API. Astro 6 + React 19 + Tailwind 4 on Vercel with CI (typecheck, lint, build, Playwright e2e); Express 5 + Mongoose API with JWT auth, zod validation, rate limiting, vitest + supertest tests. Own product, in progress.
 
----
+**Averywell (Virtual Internships programme)** (private, internship Feb to Mar 2026, contributions to May 2026) - a clinical-lab portal that digitises handwritten doctor's order forms with Azure Document Intelligence OCR and shows the scan beside the extracted fields with confidence scores for human review. Next.js 16 + Express 5 + Prisma + PostgreSQL, files on Cloudflare R2, deployed on Vercel + Railway + Neon, GitHub Actions CI. Designed with HIPAA requirements in mind.
 
-### GitHub Stats
+**CARER platform** (public: `carer-platform`, `carer-backend`) - website for a research institute. Next.js 16, React 19, Neon Postgres, ISR, dark/light theme. Live: carer-platform.vercel.app.
 
-![Fardan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardanahmed&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=CCD6F6&bg_color=0D1117)
-![Fardan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardanahmed&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=CCD6F6&bg_color=0D1117)
+**Time-Off microservice** (public: `time-off-service`) - NestJS 11 + TypeORM leave-request service that stays in sync with an external HR system: request state machine, defensive error state when the upstream is down, nightly sync job, audit log, 16 end-to-end and 7 unit tests, written technical requirements document.
 
----
+**PBAC** (public: `pbac`) - Django policy-based access control with an expense approval workflow (approve, reject, cancel).
 
-### Featured Work
+### Stack
+TypeScript, JavaScript, Python, SQL · Node.js, Express 5, NestJS, Django · React 19, Next.js 16, Astro 6, Tailwind 4 · PostgreSQL, Prisma, MongoDB, TypeORM · Docker, GitHub Actions, Vercel, Railway, Neon, Cloudflare Workers/R2, Azure (VMs, Key Vault, Document Intelligence) · Jest, Vitest, Supertest, Playwright · Webflow (Designer, CMS, Data API), GA4/GTM · Claude Code, MCP
 
-**Averywell** -- HIPAA-Compliant Clinical Lab Portal (Private Repo)
-OCR-powered form extraction via Azure Document Intelligence, 3-tier RBAC with route-level access control, real-time analytics dashboard, and zero-downtime CI/CD across Vercel + Railway + Neon PostgreSQL.
-
-**[Inventory Management API](https://github.com/fardanahmed/inventory-management-api)** -- Enterprise Inventory System
-Full-stack REST API with TypeScript, Express, and Prisma ORM. Features 11 data models, purchase/sales order workflows, stock movement tracking, audit logging, RBAC, and OpenAPI documentation.
-
-**[CARER Platform](https://github.com/fardanahmed/carer-platform)** -- Academic Consultancy Website
-Next.js 16 + React 19 + TypeScript platform with Neon Postgres, ISR, dark/light theming, and glassmorphism design. Built for a research institute bridging academia and industry.
-
-**[Recite Right](https://github.com/fardanahmed/recite-right)** -- Quran Recitation Backend API
-Production-ready Node.js/Express backend with JWT authentication, compound database indexing, modular route architecture, 90%+ test coverage, and Docker support.
-
-**[PBAC](https://github.com/fardanahmed/pbac)** -- Policy-Based Access Control Engine
-Django REST API implementing attribute-based policy evaluation for fine-grained authorization decisions with dynamic permission rules.
-
-**[LeetCode Solutions](https://github.com/fardanahmed/leetcode-solutions)** -- Algorithm Practice
-Curated Python solutions to medium and hard LeetCode problems. Covers dynamic programming, sliding window, binary search, and linked list patterns.
-
----
-
-Contact: fardanijaz@gmail.com - [LinkedIn](https://linkedin.com/in/fardan-ahmed)
+### Contact
+fardanijaz@gmail.com · linkedin.com/in/fardan-ahmed
