@@ -11,7 +11,7 @@ I build web platforms and backends for small teams: a Webflow migration practice
 
 **Averywell (Virtual Internships programme)** (private, internship Feb to Mar 2026, contributions to May 2026) - a clinical-lab portal that digitises handwritten doctor's order forms with Azure Document Intelligence OCR and shows the scan beside the extracted fields with confidence scores for human review. Next.js 16 + Express 5 + Prisma + PostgreSQL, files on Cloudflare R2, deployed on Vercel + Railway + Neon, GitHub Actions CI. Designed with HIPAA requirements in mind.
 
-**CARER platform** (public: `carer-platform`, `carer-backend`) - website for a research institute. Next.js 16, React 19, Neon Postgres, ISR, dark/light theme. Live: carer-platform.vercel.app.
+**CARER platform** (public: `carer-platform`, `carer-backend`) - website for a research institute. Astro and React (moved from Next.js in June 2026), with a separate backend repo. Live: carer-platform.vercel.app.
 
 **Time-Off microservice** (public: `time-off-service`) - NestJS 11 + TypeORM leave-request service that stays in sync with an external HR system: request state machine, defensive error state when the upstream is down, nightly sync job, audit log, 16 end-to-end and 7 unit tests, written technical requirements document.
 
