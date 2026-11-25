@@ -9,7 +9,7 @@ I build web platforms and backends for small teams: a Webflow migration practice
 ### Projects
 **NexusHQ** (public: `nexushq`, `nexushq-backend`) - SaaS marketing site and API. Astro 6 + React 19 + Tailwind 4 on Vercel with CI (typecheck, lint, build, Playwright e2e); Express 5 + Mongoose API with JWT auth, zod validation, rate limiting, vitest + supertest tests. Own product, in progress.
 
-**Averywell (Virtual Internships programme)** (private, internship Feb to Mar 2026, contributions to May 2026) - a clinical-lab portal that digitises handwritten doctor's order forms with Azure Document Intelligence OCR and shows the scan beside the extracted fields with confidence scores for human review. Next.js 16 + Express 5 + Prisma + PostgreSQL, files on Cloudflare R2, deployed on Vercel + Railway + Neon, GitHub Actions CI. Designed with HIPAA requirements in mind.
+**Averywell (Virtual Internships programme)** (private; joined through an internship programme in Feb 2026, part-time since) - a clinical-lab portal that digitises handwritten doctor's order forms with Azure Document Intelligence OCR and shows the scan beside the extracted fields with confidence scores for human review. Next.js 16 + Express 5 + Prisma + PostgreSQL, files on Cloudflare R2, deployed on Vercel + Railway + Neon, GitHub Actions CI. Designed with HIPAA requirements in mind.
 
 **CARER platform** (public: `carer-platform`, `carer-backend`) - website for a research institute. Astro and React (moved from Next.js in June 2026), with a separate backend repo. Live: carer-platform.vercel.app.
 
